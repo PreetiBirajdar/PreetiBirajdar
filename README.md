@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Projects and Business Analytics Research Paper**
 
-- 💬 Ask me about **Python, SQL, Data Science, Machine Learning, Business Analytics**
+- 💬 Ask me about **Data Science, Data Visualization,Machine Learning, Business Analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

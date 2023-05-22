@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Preeti Birajdar.</h1>
 <h3 align="center">Thank You for taking the time to view my GitHub Profile 😄</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetibirajdar" alt="preetibirajdar" /></a> </p>
-
 - 🔭 I’m currently working on **Data Science and Business Analytics Projects**
 
 - 🌱 I’m currently developing **Business Analytics Skills.**
 
 - 👯 I’m looking to collaborate on **Projects and Business Analytics Research Paper**
 
-- 💬 Ask me about **Python, SQL, Data Science, Machine Learning, Business Anayltics**
+- 💬 Ask me about **Python, SQL, Data Science, Machine Learning, Business Analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

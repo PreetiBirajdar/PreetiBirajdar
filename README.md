@@ -1,20 +1,120 @@
-<h1 align="center">Hi 👋, I'm Preeti Birajdar.</h1>
-<h3 align="center">Thank You for taking the time to view my GitHub Profile 😄</h3>
+<h1 align="center">Hi 👋, I'm Preeti Birajdar</h1>
 
-- 🔭 I’m currently working on **Data Science and Business Analytics Projects**
+<h3 align="center">
+Business & Data Analyst | SQL • Excel • Tableau • Power BI | MBA in Business Analytics
+</h3>
 
-- 🌱 I’m currently developing **Business Analytics Skills.**
-
-- 👯 I’m looking to collaborate on **Projects and Business Analytics Research Paper**
-
-- 💬 Ask me about **Data Science, Data Visualization,Machine Learning, Business Analytics**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/preeti-birajdar-06723b20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preeti-birajdar-06723b20a/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/preeti-birajdar-06723b20a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetibirajdar&" alt="preetibirajdar" /></p>
+## 👩‍💼 About Me
+
+I am a Business and Data Analyst currently working with **MTA New York City Transit**, where I support data-driven decision-making through reporting, dashboarding, KPI tracking, and operational analysis.
+
+I hold an **MBA in Business Analytics from Pace University, New York City**, and I am passionate about transforming raw data into actionable business insights.
+
+### What I focus on:
+- 📊 Business Intelligence and Dashboard Development
+- 📈 Data Analysis and Performance Benchmarking
+- 🚍 Operations and Transit Analytics
+- 🔍 Forecasting, Trend Analysis, and Strategy Support
+- 🤝 Stakeholder-Focused Decision Making
+
+---
+
+## 🧰 Skills & Tools
+
+### Data Analysis
+![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Skilled-orange?style=flat-square)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-Skilled-yellow?style=flat-square)
+
+### Data Visualization
+![Tableau](https://img.shields.io/badge/Tableau-Dashboarding-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![KPI Tracking](https://img.shields.io/badge/KPI%20Tracking-Analytics-purple?style=flat-square)
+![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-BI-blueviolet?style=flat-square)
+
+### Programming
+![Python](https://img.shields.io/badge/Python-Working%20Knowledge-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-Working%20Knowledge-276DC3?style=flat-square&logo=r&logoColor=white)
+
+### Analytics Techniques
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-Methodology-lightgrey?style=flat-square)
+![Trend Analysis](https://img.shields.io/badge/Trend%20Analysis-Insights-green?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Forecasting-Planning-teal?style=flat-square)
+![Benchmarking](https://img.shields.io/badge/Performance%20Benchmarking-Strategy-red?style=flat-square)
+
+### Business Skills
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-Business-blue?style=flat-square)
+![Process Improvement](https://img.shields.io/badge/Process%20Improvement-Operations-brightgreen?style=flat-square)
+![Data Driven Decision Making](https://img.shields.io/badge/Data--Driven%20Decision%20Making-Strategy-ff69b4?style=flat-square)
+![Operational Strategy](https://img.shields.io/badge/Operational%20Strategy-Planning-orange?style=flat-square)
+
+---
+
+## 📌 Featured Portfolio Projects
+
+### 🚍 Transit Reliability Insights: MDBF & Road Call Analysis
+**Tools:** Tableau, Excel  
+**Focus:** Transit reliability, failure analysis, borough-level performance, KPI monitoring
+
+### 🚌 Bus Lifecycle & Retirement Strategy
+**Tools:** Excel, Power BI  
+**Focus:** Fleet asset management, replacement planning, lifecycle strategy
+
+### ⚡ EV Charging Network Expansion Strategy
+**Tools:** SQL, Excel, Power BI  
+**Focus:** Infrastructure planning, demand assessment, network expansion strategy
+
+### 🚗 Tourist Demand Forecasting & Car Rental Pricing Strategy
+**Tools:** SQL, Excel, Tableau  
+**Focus:** Forecasting, pricing analytics, tourism trends, revenue strategy
+
+---
+
+## 🎓 Education
+
+**MBA in Business Analytics**  
+Pace University, New York City, USA
+
+**Bachelor of Engineering in Information Technology**  
+University of Mumbai, India
+
+---
+
+## 🌱 Currently Building
+
+- End-to-end business analytics case studies
+- Interactive Tableau and Power BI dashboards
+- SQL-based analysis projects
+- A portfolio focused on business impact, operational insights, and strategic recommendations
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=preetibirajdar&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetibirajdar" height="165" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/preeti-birajdar-06723b20a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Preeti%20Birajdar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  Thank you for visiting my profile! 😊
+</p>

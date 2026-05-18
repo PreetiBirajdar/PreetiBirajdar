@@ -65,7 +65,7 @@ I hold an **MBA in Business Analytics from Pace University, New York City**, and
 **Tools:** Tableau, Excel  
 **Focus:** Transit reliability, failure analysis, borough-level performance, KPI monitoring
 
-### 🚌 Bus Lifecycle & Retirement Strategy
+### 🚌 [Bus Lifecycle & Retirement Strategy](https://github.com/PreetiBirajdar/Bus-Lifecycle-Retirement-Strategy)
 **Tools:** Excel, Power BI  
 **Focus:** Fleet asset management, replacement planning, lifecycle strategy
 

@@ -61,7 +61,7 @@ I hold an **MBA in Business Analytics from Pace University, New York City**, and
 
 ## 📌 Featured Portfolio Projects
 
-### 🚍 Transit Reliability Insights: MDBF & Road Call Analysis
+### 🚍 [Transit Reliability Insights: MDBF & Road Call Analysis](https://github.com/PreetiBirajdar/Transit-Reliability-Insights-MDBF-Road-Call-Analysis)
 **Tools:** Tableau, Excel  
 **Focus:** Transit reliability, failure analysis, borough-level performance, KPI monitoring
 

@@ -14,7 +14,7 @@ Business & Data Analyst | SQL • Excel • Tableau • Power BI | MBA in Busine
 
 ## 👩‍💼 About Me
 
-I am a Business and Data Analyst currently working with **MTA New York City Transit**, where I support data-driven decision-making through reporting, dashboarding, KPI tracking, and operational analysis.
+I am a Business and Data Analyst currently working with **Metropoltian Transportation Authority NYCT**, where I support data-driven decision-making through reporting, dashboarding, KPI tracking, and operational analysis.
 
 I hold an **MBA in Business Analytics from Pace University, New York City**, and I am passionate about transforming raw data into actionable business insights.
 

@@ -110,8 +110,9 @@ University of Mumbai, India
 ## 🤝 Let's Connect
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    <a href="mailto:preetibirajdar2025@gmail.com">
+  <strong>Contact Me:</strong>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Send%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/preeti-birajdar-06723b20a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Preeti%20Birajdar-blue?style=for-the-badge&logo=linkedin" />

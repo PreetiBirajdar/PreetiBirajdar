@@ -69,9 +69,9 @@ I hold an **MBA in Business Analytics from Pace University, New York City**, and
 **Tools:** Excel, Power BI  
 **Focus:** Fleet asset management, replacement planning, lifecycle strategy
 
-### ⚡ [EV Charging Network Expansion Strategy](https://github.com/PreetiBirajdar/EV-Charging-Network-Expansion-Strategy)
+### ⚡ [EV Charging Network Expansion Strategy : Local Authority Gap Analysis](https://github.com/PreetiBirajdar/EV-Charging-Network-Expansion-Strategy)
 **Tools:** SQL, Excel, Power BI  
-**Focus:** Infrastructure planning, demand assessment, network expansion strategy
+**Focus:** EV infrastructure planning, charger access analysis, local authority gap analysis, expansion prioritization
 
 ### 🚗 [Tourist Demand Forecasting & Car Rental Pricing Strategy](https://github.com/PreetiBirajdar/Tourist-Demand-Forecasting-Car-Rental-Pricing-Strategy)
 **Tools:** SQL, Excel, Tableau  

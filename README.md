@@ -65,7 +65,7 @@ I hold an **MBA in Business Analytics from Pace University, New York City**, and
 **Tools:** Tableau, Excel  
 **Focus:** Transit reliability, failure analysis, borough-level performance, KPI monitoring
 
-### 👩‍🎓 [Student Social Media and Mental Health Impact](https://github.com/PreetiBirajdar/Student-Social-Media-And-Mental-Health-Impact))
+### 👩‍🎓 [Student Social Media and Mental Health Impact](https://github.com/PreetiBirajdar/Student-Social-Media-And-Mental-Health-Impact)
 **Tools:** Excel, Power BI, SQL 
 **Focus:** Social media usage patterns, student well-being, mental health indicators, screen-time analysis, and academic impact
 

@@ -66,7 +66,7 @@ I hold an **MBA in Business Analytics from Pace University, New York City**, and
 **Focus:** Transit reliability, failure analysis, borough-level performance, KPI monitoring
 
 ### 👩‍🎓 [Student Social Media and Mental Health Impact](https://github.com/PreetiBirajdar/Student-Social-Media-And-Mental-Health-Impact)
-**Tools:** Excel, Power BI, SQL 
+**Tools:** SQL, Excel, Power BI 
 **Focus:** Social media usage patterns, student well-being, mental health indicators, screen-time analysis, and academic impact
 
 ### ⚡ [EV Charging Network Expansion Strategy : Local Authority Gap Analysis](https://github.com/PreetiBirajdar/EV-Charging-Network-Expansion-Strategy)

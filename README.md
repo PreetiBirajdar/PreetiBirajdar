@@ -65,9 +65,9 @@ I hold an **MBA in Business Analytics from Pace University, New York City**, and
 **Tools:** Tableau, Excel  
 **Focus:** Transit reliability, failure analysis, borough-level performance, KPI monitoring
 
-### 🚌 [Bus Lifecycle & Retirement Strategy](https://github.com/PreetiBirajdar/Bus-Lifecycle-Retirement-Strategy)
-**Tools:** Excel, Power BI  
-**Focus:** Fleet asset management, replacement planning, lifecycle strategy
+### 🚌 [Student Social Media and Mental Health Impact](https://github.com/PreetiBirajdar/Student-Social-Media-And-Mental-Health-Impact))
+**Tools:** Excel, Power BI, SQL 
+**Focus:** Social media usage patterns, student well-being, mental health indicators, screen-time analysis, and academic impact
 
 ### ⚡ [EV Charging Network Expansion Strategy : Local Authority Gap Analysis](https://github.com/PreetiBirajdar/EV-Charging-Network-Expansion-Strategy)
 **Tools:** SQL, Excel, Power BI  
